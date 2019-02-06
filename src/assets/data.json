@@ -1,0 +1,32 @@
+[{
+    "date": "1-Jan-2018",
+    "share": 501
+  },
+  {
+    "date": "3-Jan-2018",
+    "shareRate": 301
+  },
+  {
+    "date": "4-Jan-2018",
+    "shareRate": 201
+  },
+  {
+    "date": "6-Jan-2018",
+    "shareRate": 500
+  },
+  {
+    "date": "8-Jan-2018",
+    "shareRate": 300
+  },
+  {
+    "date": "15-Jan-2018",
+    "shareRate": 659
+  },
+  {
+    "date": "18-Jan-2018",
+    "shareRate": 700
+  },
+  {
+    "date": "25-Jan-2018",
+    "shareRate": 200
+  }]
